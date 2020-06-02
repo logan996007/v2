@@ -1,5 +1,5 @@
 applications:
 - path: .
-  name: logan996
+  name: 996007
   random-route: true
-  memory: 256M
+  memory: 128M
